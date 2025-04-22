@@ -1,1 +1,1 @@
-print("testing branching and pull request")
+print("testing branching and understanding pull request")
